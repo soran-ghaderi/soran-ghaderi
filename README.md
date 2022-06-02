@@ -1,9 +1,27 @@
 <h1>Soran Ghaderi</h1>
-<p>Recent computer science graduated with over two years of experience in machine learning, data mining, and team
-  working.
-Aims to make contributions to a dynamic team researching computer vision and/or NLP with a
-profound interest in using attention mechanisms in cognitive computing, in particular,
-  machine vision.</p>
+<p>Computer science graduate with over three years of experience in developing deep learning and machine learning pipelines.</p>
+<p>Aims to make contributions to a dynamic team researching computer vision and/or NLP with a profound interest in 
+using attention mechanisms in cognitive computing, particularly machine vision.</p>
+
+<p>For the past few years, I've been developing and maintaining python libraries (i.e.
+<a href="https://github.com/bi-graph/Emgraph">Emgraph</a> and 
+<a href="https://github.com/bi-graph/Bigraph">Bigraph</a>) as well as a few other standalone projects.
+</p>
+
+<div>
+<h4>Major Projects</h4>
+<ul>
+<li><h5>Emgraph</h5><p>A python library for developing, training, and evaluating knowledge graph representation 
+learning. It also comes with a small model zoo, which is primarily used for benchmarking and comparing new models.</p></li>
+<li><h5>Bigraph</h5><p>If you are working with n-partite graphs, you are familiar with its intricacies when it comes to 
+applying normal graphs' algorithms; that's where Bigraph comes into play and provides 
+researchers with an easy-to-use API. It also computes algorithms on GPU if you have
+CUDA and graphic drivers installed.</p></li>
+<li><h5>TASE</h5><p>A lightning-fast audio full-text search engine on top of Telegram It allows users to quickly and 
+easily find information that is of genuine interest or value, without the need to wade through numerous irrelevant 
+channels. It provides users with search results that lead to relevant information on high-quality audio files.</p></li>
+</ul>
+</div>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soran-ghaderi&theme=solarized_dark)
 <!--
