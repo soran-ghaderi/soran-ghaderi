@@ -1,9 +1,10 @@
 <h1>Soran Ghaderi</h1>
 <p>Computer science graduate with over three years of experience in developing deep learning and machine learning pipelines.</p>
-<p>Aims to make contributions to a dynamic team researching computer vision and/or NLP with a profound interest in 
+<p>I aim to make contributions to a dynamic team researching computer vision and/or NLP with a profound interest in 
 using attention mechanisms in cognitive computing, particularly machine vision.</p>
 
 <p>For the past few years, I've been developing and maintaining python libraries (i.e.
+<a href="https://github.com/tensorops/TransformerX"><b>TransformerX</b></a>, 
 <a href="https://github.com/bi-graph/Emgraph">Emgraph</a> and 
 <a href="https://github.com/bi-graph/Bigraph">Bigraph</a>) as well as a few other standalone projects.
 </p>
@@ -11,6 +12,16 @@ using attention mechanisms in cognitive computing, particularly machine vision.<
 <div>
 <h4>Major Projects</h4>
 <ul>
+<li><h5><a href="https://github.com/tensorops/TransformerX">TransformerX</a></h5>
+<img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow 2-FF6F00?style=flat&logo=tensorflow&logoColor=white">
+<img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white">
+<img alt="JAX" src="https://img.shields.io/badge/JAX-A81C7D.svg?style=flat&logo=numpy&logoColor=white">
+<img alt="Numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white">
+
+<br>
+It is a Python library for building 
+transformer-based models and comes with multiple building blocks and layers you need for creating your model. Currently,
+ it supports Tensorflow and we will add support for Pytorch and JAX soon.</li>
 <li><h5>Emgraph</h5><p>A python library for developing, training, and evaluating knowledge graph representation 
 learning. It also comes with a small model zoo, which is primarily used for benchmarking and comparing new models.</p></li>
 <li><h5>Bigraph</h5><p>If you are working with n-partite graphs, you are familiar with its intricacies when it comes to 
