@@ -11,45 +11,53 @@
   </a> -->
 </p>
 <p align="center">
-  Master’s student specializing in Artificial Intelligence at the University of Essex, supervised by Professor Luca Citi.
+  I received my MSc in Artificial Intelligence at the University of Essex, supervised by Professor Luca Citi. Previously, I obtained my bachelor's degree from the University of Kurdistan under the supervision of Dr P. Moradi.
 </p>
 <p align="center">
-  With over three years of experience developing deep learning pipelines, I have contributed to the open-source community and engaged in research collaborations. My ultimate objective is to study the cognitive mechanisms underlying intelligence and develop agents capable of reasoning and interacting with the real world.
+  During my postgraduate studies, I worked on <b>reasoning in LLMs for code generation</b>, through which, I developed <I>"Neural Integration of Iterative Reasoning (<a href="https://soran-ghaderi.github.io/nir/">NIR</a>)"</I>. It consisted of a separate deep-think stage with self-reflection and a direct integration of thoughts (hidden states) into the LLM's main generation's hidden states using model surgery! <br>
+  My ultimate objective is to study the cognitive mechanisms underlying intelligence and develop agents capable of reasoning and interacting with the real world.
 </p>
 <h2>Research Interests</h2>
-<p>My research focuses on overcoming the challenges faced by current AI models, particularly in reasoning and decision-making in complex environments. I explore fully differentiable approaches for multi-step reasoning in LLMs, decision-making, and zero-shot learning within uncertain environments. Key areas of interest include:</p>
+<p align="center">
+  <b>Open to research collaborations on the following topics; please reach out via email.</b> (soran.ghaderi.ac@gmail.com)
+</p>
+<p>My research focuses on overcoming the challenges faced by current AI models, particularly in reasoning, planning, and generalization in complex environments. Key areas of interest include:</p>
 <ul>
-  <li>Developing new architectures for coherent multi-step inference</li>
-  <li>Transformers and attention mechanisms</li>
-  <li>Generative models, multimodal learning, and self-supervised learning</li>
+  <li>Reasoning and Planning</li>
+  <li>Handling OOD problems</li>
+  <li>Representation learning</li>
+  <li>Embodied Intelligent Agents</li>
+  <li>Generative modeling, multimodal learning, self-supervised and reinforcement learning</li>
   <li>Creating specialized networks for memory, goal-directed planning, spatial reasoning, and error detection and conflict monitoring</li>
+  <li>Transformers and attention mechanisms</li>
+  <li>Applications: AI for science, robotics, and LLMs</li>
 </ul>
-<h2>Projects</h2>
-<p>I have developed and maintained a number of Python libraries and standalone projects. Some of my major projects include:</p>
-<ul>
-  <li><h5><a href="https://github.com/tensorops/TransformerX">TransformerX</a></h5>
-    <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow 2-FF6F00?style=flat&logo=tensorflow&logoColor=white">
-    <img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white">
-    <img alt="JAX" src="https://img.shields.io/badge/JAX-A81C7D.svg?style=flat&logo=numpy&logoColor=white">
-    <img alt="Numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white">
-    <p>A Python library for building transformer-based models with multiple building blocks and layers needed for model creation. Currently supports TensorFlow, with PyTorch and JAX support coming soon.</p>
-  </li>
-  <li><h5><a href="https://github.com/bi-graph/Emgraph">Emgraph</a></h5>
-    <p>A Python library for developing, training, and evaluating knowledge graph representation learning. It includes a small model zoo for benchmarking and comparing new models.</p>
-  </li>
-  <li><h5><a href="https://github.com/bi-graph/Bigraph">Bigraph</a></h5>
-    <p>Provides an easy-to-use API for working with bi-partite graphs, addressing the complexities of applying standard graph algorithms. Supports GPU computation with CUDA and graphic drivers.</p>
-  </li>
-  <li><h5><a href="https://github.com/appheap/TASE">TASE</a></h5>
-    <p>A lightning-fast audio full-text search engine on top of Telegram. It allows users to quickly find relevant high-quality audio files without navigating through numerous irrelevant channels.</p>
-  </li>
-</ul>
+Currently, I am exploring diffusion models, score-based and flow-based models, differential geometry (particularly Riemannian geometry), metric learning, energy-based models, GFlowNets, and joint embedding predictive architectures operating in the latent spaces among others to design generalizable intelligent agents capable of reasoning (i.e. as optimization problem), deliberate planning (system 2-like), and able to handle uncertainty (in the inference-time)
+
+
+
+<h2>Open Source Projects</h2>
+<!-- <p>I have developed and maintained a number of Python libraries and standalone projects.</p> -->
+<a href="https://github.com/soran-ghaderi/torchebm">TorchEBM <img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white"></a>: ⚡ Energy-Based Modeling library that provides tools for sampling, inference, and learning in complex distributions.
+<p></p>
+<a href="https://github.com/tensorops/TransformerX">TransformerX <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"></a>: A Python library for building transformer-based models.
+<p></p>
+<a href="https://github.com/bi-graph/Emgraph">Emgraph <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"></a>: A library for developing, training, and evaluating knowledge graph representation learning. It includes many pre-implemented models.
+<p></p>
+<a href="https://github.com/bi-graph/Bigraph">Bigraph</a>: It adopts standard graph algorithms for bi-partite graphs.
+<p></p>
+<a href="https://github.com/appheap/TASE">TASE <img alt="Tensorflow" src="https://img.shields.io/badge/elasticsearch-%230377CC.svg?logo=elastic&logoColor=white"></a>: A lightning-fast audio full-text search engine on top of Telegram.
+<p></p>
+<b>Other</b>: <a href="https://soran-ghaderi.github.io/nir/">NIR</a>, <a href="https://github.com/soran-ghaderi/backpropagation">Nano automatic differentiation framework</a>, <a href="https://github.com/soran-ghaderi/EfficientCoF">EfficientCoF</a>, <a href="https://github.com/soran-ghaderi/make-a-video">make-a-video</a> (partially), <a href="https://github.com/soran-ghaderi/quantum-messaging">P2P quantum-messaging</a>
+<p></p>
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soran-ghaderi&theme=solarized_dark" alt="Profile Summary">
 </p>
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=soran-ghaderi&show_icons=true&theme=solarized-dark" alt="GitHub Stats">
-</p>
+</p> -->
+<!-- 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=soran-ghaderi" alt="Visitor Count">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
