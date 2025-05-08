@@ -7,7 +7,7 @@
     <a href="https://www.linkedin.com/in/soran-ghaderi/" target="_blank" style="margin: 0 8px; text-decoration: none; color: #0077B5;">LinkedIn</a> |
     <a href="https://scholar.google.com/citations?user=-2N2iKcAAAAJ&hl=en" target="_blank" style="margin: 0 8px; text-decoration: none; color: #4285F4;">Google Scholar</a> |
     <a href="https://orcid.org/0009-0004-6564-4517" target="_blank" style="margin: 0 8px; text-decoration: none; color: #A6CE39;">ORCID</a> |
-    <a href="https://towardsdatascience.com/author/soran-ghaderi/" target="_blank" style="margin: 0 8px; text-decoration: none; color: #B31B1B;">∇ TorchEBM Blog</a> |
+    <a href="https://soran-ghaderi.github.io/torchebm/latest/blog/" target="_blank" style="margin: 0 8px; text-decoration: none; color: #B31B1B;">∇ TorchEBM Blog</a> |
     <a href="https://towardsdatascience.com/author/soran-ghaderi/" target="_blank" style="margin: 0 8px; text-decoration: none; color: #B31B1B;">TDS Articles</a> |
     <a href="https://soran-ghaderi.medium.com/" target="_blank" style="margin: 0 8px; text-decoration: none; color: #000000;">Medium</a> |
     <a href="mailto:soran.gdr.cs@gmail.com" target="_blank" style="margin: 0 8px; text-decoration: none; color: #D14836;">Email</a>
