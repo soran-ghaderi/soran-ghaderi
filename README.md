@@ -1,9 +1,7 @@
 <div align="center">
   <h1>Soran Ghaderi</h1>
-  <p style="font-size: 1.1em; margin-bottom: 15px;">
-    Open Source ML Developer and Researcher | Foundational Models for Generalization, Reasoning, & Generative AI
-  </p>
-  <p style="margin-bottom: 20px;">
+  <p style="font-size: 1.1em; margin-bottom: 1px;">
+    Open Source ML Developer and Researcher | Foundational Models for Generalization, Reasoning, & Generative AI<br>
     <a href="https://soran-ghaderi.github.io/" target="_blank" style="margin: 0 8px; text-decoration: none; color: #0366d6;">Personal Website</a> |
     <a href="https://twitter.com/soranghadri" target="_blank" style="margin: 0 8px; text-decoration: none; color: #1DA1F2;">Twitter</a> |
     <a href="https://www.linkedin.com/in/soran-ghaderi/" target="_blank" style="margin: 0 8px; text-decoration: none; color: #0077B5;">LinkedIn</a> |
@@ -13,9 +11,13 @@
     <a href="https://towardsdatascience.com/author/soran-ghaderi/" target="_blank" style="margin: 0 8px; text-decoration: none; color: #B31B1B;">TDS Articles</a> |
     <a href="https://soran-ghaderi.medium.com/" target="_blank" style="margin: 0 8px; text-decoration: none; color: #000000;">Medium</a> |
     <a href="mailto:soran.gdr.cs@gmail.com" target="_blank" style="margin: 0 8px; text-decoration: none; color: #D14836;">Email</a>
+
+  </p>
+  <p style="margin-bottom: 1px;">
   </p>
   <h3>🍓 <b>Open to research collaborations on the following topics (please reach out via email).</b></h3>
 </div>
+
 
 
 ## About Me
@@ -37,22 +39,24 @@
 
 <h2>Research Interests</h2>
 
-<p>My research interests focus on building more capable, efficient, and generalizable AI systems. I am particularly interested in the intersection of deep learning, statistical mechanics, probabilistic modeling, and geometric methods. Key areas of interest include:</p>
-<ul>
-  <li><strong>Generative Modeling:</strong> Developing and understanding Energy-Based Models (EBMs, e.g., `TorchEBM`), Diffusion/Score-Based Models, Normalizing Flows & Optimal Transport, and Consistency Models. This involves leveraging mathematical tools such as Ordinary Differential Equations (ODEs), Partial Differential Equations (PDEs, e.g., Fokker-Planck), and Stochastic Differential Equations (SDEs) to define, train, and sample from these models. My work also incorporates concepts from Stochastic Calculus (e.g., Itô Calculus) and Optimal Transport Theory.<br><br>
-  Parallel to these, I have experience in developing language models and autoregressive generation for sequential data.
-  </li>
+<p>My research interests focus on building more capable, efficient, and generalizable AI systems. I am particularly interested in the intersection of deep learning, statistical mechanics, probabilistic modeling, and geometric methods. 
 
-  <li><strong>Generalization, Reasoning & Planning:</strong> Creating models that exhibit robust OOD performance for complex decision-making.</li>
-  <li><strong>Geometric & Mathematical Foundations of ML:</strong> Applying Differential Geometry (i.e. Riemannian manifolds), Metric Learning, and insights from different reformulations (i.e. Hamiltonian & Lagrangian mechanics) to design more theoretically-solid and efficient learning algorithms.</li>
-  <li><strong>Efficient Architectures: </strong>Transformers & Attention Mechanisms</li>
-  <li><b>RL & Agents</b></li>
-  <li>Embodied Intelligent Agents</li>
-  <li><strong>Applications:</strong> AI for science, robotics, and LLMs</li>
-</ul>
-<b>Current Focus: </b> I am actively exploring the unification of diffusion, score-based, flow-based, and energy-based models, informed by differential geometry and metric learning. The goal is to design generalizable intelligent agents capable of sophisticated reasoning (viewed as an optimization or inference problem) and robust planning under uncertainty.
+<details>
+  <summary>Key areas of interest include (<b>🟢 click to expand</b>)</summary>
 
-Currently, I am exploring diffusion models, score-based and flow-based models, differential geometry (particularly Riemannian geometry), metric learning, energy-based models, GFlowNets, and joint embedding predictive architectures operating in the latent spaces among others to design generalizable intelligent agents capable of reasoning (i.e. as optimization problem), deliberate planning (system 2-like), and able to handle uncertainty (in the inference-time)
+  <ul>
+    <li><strong>Generative Modeling:</strong> Developing and understanding Energy-Based Models (EBMs, e.g., <code>TorchEBM</code>), Diffusion/Score-Based Models, Normalizing Flows &amp; Optimal Transport, and Consistency Models. This involves leveraging mathematical tools such as Ordinary Differential Equations (ODEs), Partial Differential Equations (PDEs, e.g., Fokker-Planck), and Stochastic Differential Equations (SDEs) to define, train, and sample from these models. My work also incorporates concepts from Stochastic Calculus (e.g., Itô Calculus) and Optimal Transport Theory.<br><br>
+    Parallel to these, I have experience in developing language models and autoregressive generation for sequential data.</li>
+    <li><strong>Generalization, Reasoning &amp; Planning:</strong> Creating models that exhibit robust OOD performance for complex decision-making.</li>
+    <li><strong>Geometric &amp; Mathematical Foundations of ML:</strong> Applying Differential Geometry (i.e. Riemannian manifolds), Metric Learning, and insights from different reformulations (i.e. Hamiltonian &amp; Lagrangian mechanics) to design more theoretically-solid and efficient learning algorithms.</li>
+    <li><strong>Efficient Architectures:</strong> Transformers &amp; Attention Mechanisms</li>
+    <li><strong>RL &amp; Agents</strong></li>
+    <li>Embodied Intelligent Agents</li>
+    <li><strong>Applications:</strong> AI for science, robotics, and LLMs</li>
+  </ul>
+
+</details>
+<b>Current Focus: </b> I am actively exploring the unification of diffusion, flow-based, and energy-based models, through the lens of statistical mechanics, differential geometry, and various other mathematical framworks. The goal is to design generalizable intelligent agents capable of sophisticated and fast generation and reasoning (viewed as an optimization or inference problem) and robust planning under uncertainty.
 
 <h2>Open Source Projects</h2>
 
@@ -95,19 +99,27 @@ My current flagship project is <strong>`∇ TorchEBM`</strong>, alongside ongoin
 <p></p>
 
 ## Skills and Experiences (Broadly!)
-<ul>
-  <li><strong>Generative AI &amp; ML:</strong><br> - EBMs, Diffusion Models, Normalizing Flows, and Probabilistic Modeling.<br> - Transformers and LLMs (Autoregressive Gen)<br> - Representation Learning.</li>
-  <li><strong>Languages &amp; Frameworks:</strong> PyTorch, TensorFlow, JAX (Familiar), Hugging Face Transformers.</li>
-  <li><strong>Math &amp; Algorithms:</strong> Optimization, MCMC (Langevin, HMC), Calculus, Linear Algebra, Probability, Statistics, elements of Stochastic Calculus, applied Differential Geometry, Optimal Transport.</li>
-  <li><strong>Software &amp; Tools:</strong> Git, API Design, TDD principles, Docker (Familiar), CI/CD (Familiar through GH Actions), HPC, and GPU Programming (Basic)</li>
-</ul>
+
+<details>
+  <summary>🟢 Click to Expand</summary>
+
+  <ul>
+    <li><strong>Generative AI &amp; ML:</strong><br> - EBMs, Diffusion Models, Normalizing Flows, and Probabilistic Modeling.<br> - Transformers and LLMs (Autoregressive Gen)<br> - Representation Learning.</li>
+    <li><strong>Languages &amp; Frameworks:</strong> PyTorch, TensorFlow, JAX (Familiar), Hugging Face Transformers.</li>
+    <li><strong>Math &amp; Algorithms:</strong> Optimization, MCMC (Langevin, HMC), Calculus, Linear Algebra, Probability, Statistics, elements of Stochastic Calculus, applied Differential Geometry, Optimal Transport.</li>
+    <li><strong>Software &amp; Tools:</strong> Git, API Design, TDD principles, Docker (Familiar), CI/CD (Familiar through GH Actions), HPC, and GPU Programming (Basic)</li>
+  </ul>
+
+</details>
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soran-ghaderi&theme=solarized_dark" alt="Profile Summary">
 </p>
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=soran-ghaderi&show_icons=true&theme=solarized-dark" alt="GitHub Stats">
-</p>
+</p> -->
+<!-- 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=soran-ghaderi" alt="Visitor Count">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
