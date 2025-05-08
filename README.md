@@ -29,7 +29,7 @@
   During my postgraduate studies, I worked on <b>reasoning in LLMs for code generation</b>, through which, I developed <I>"Neural Integration of Iterative Reasoning (<a href="https://soran-ghaderi.github.io/nir/">NIR</a>) for Code Generation"</I>. It consisted of a separate deep-think stage with self-reflection and a direct integration of thoughts (hidden states) into the LLM's main generation's hidden states using model surgery! <br>
   My ultimate objective is to study the cognitive mechanisms underlying intelligence and develop agents capable of reasoning and interacting with the real world.
 </p>
-<p>🍓 I am actively seeking <b>AI/ML Researcher/Engineer roles</b> where I can contribute to cutting-edge research in AI. I'm also looking for <b>PhD positions</b> (for the upcoming academic year).</p>
+<p>🍓 I am actively seeking <b>AI/ML Researcher/Engineer roles / Internships</b> where I can contribute to cutting-edge research in AI. I'm also looking for <b>PhD positions</b> (for the upcoming academic year).</p>
 
 <details>
   <summary><b>🟢 Click to see a brief overview of my contributions and activities over the years</b></summary>
