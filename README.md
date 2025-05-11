@@ -31,11 +31,17 @@
 </p>
 <p>🍓 I am actively seeking <b>AI/ML Researcher/Engineer roles / Internships</b> where I can contribute to cutting-edge research in AI. I'm also looking for <b>PhD positions</b> (for the upcoming academic year).</p>
 
-<details>
+<!-- <details>
   <summary><b>🟢 Click to see a brief overview of my contributions and activities over the years</b></summary>
   <br>
   <img src="https://github.com/user-attachments/assets/19e46503-8caf-4a16-b54e-d38a76c6f5ce" alt="image" style="max-width: 200px; width: 20%; height: auto;">
-</details>
+</details> -->
+
+<b>A brief overview of my contributions and activities over the years</b>
+<br>
+
+<img src="https://github.com/user-attachments/assets/19e46503-8caf-4a16-b54e-d38a76c6f5ce" alt="image" style="max-width: 200px; width: 20%; height: auto;">
+
 
 <h2>Research Interests</h2>
 
