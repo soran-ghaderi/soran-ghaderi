@@ -77,7 +77,7 @@ My current flagship project is <strong>`∇ TorchEBM`</strong>, alongside ongoin
   </thead>
   <tbody>
     <tr>
-      <td>🍒 <b><a href="[https://github.com/soran-ghaderi/torchebm](https://github.com/soran-ghaderi/cuRBLAS)" target="_blank">cuRBLAS<br><img alt="CUDA2" src="https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green"></a></b></td>
+      <td>🍒 <b><a href="https://github.com/soran-ghaderi/cuRBLAS" target="_blank">cuRBLAS<br><img alt="CUDA2" src="https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green"></a></b></td>
       <td>CUDA-accelerated randomized BLAS (RBLAS) algorithms & routines—cuBLAS for modern randomized linear algebra.</td>
     </tr>
     <tr>
