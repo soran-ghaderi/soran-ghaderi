@@ -71,29 +71,33 @@ My current flagship project is <strong>`∇ TorchEBM`</strong>, alongside ongoin
 <table>
   <thead>
     <tr>
-      <th>Project <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white"></th>
+      <th>Project <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></th>
       <th>Description</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>🍓 <b><a href="https://github.com/soran-ghaderi/torchebm" target="_blank">TorchEBM<br><img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white"></a></b></td>
+      <td>🍒 <b><a href="[https://github.com/soran-ghaderi/torchebm](https://github.com/soran-ghaderi/cuRBLAS)" target="_blank">cuRBLAS<br><img alt="CUDA2" src="https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green"></a></b></td>
+      <td>CUDA-accelerated randomized BLAS (RBLAS) algorithms & routines—cuBLAS for modern randomized linear algebra.</td>
+    </tr>
+    <tr>
+      <td>🍓 <b><a href="https://github.com/soran-ghaderi/torchebm" target="_blank">TorchEBM<br><img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"></a></b></td>
       <td>PyTorch library for Energy-Based (and Diffusion under dev) Models; simplifies training (CD, Score Matching), sampling, and research. <a href="https://soran-ghaderi.github.io/torchebm/" target="_blank">Official Website and Docs</a></td>
     </tr>
     <tr>
-      <td>📕 <b><a href="https://github.com/soran-ghaderi/nir_code_release" target="_blank">NIR<br><img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white"></a></b></td>
+      <td>📕 <b><a href="https://github.com/soran-ghaderi/nir_code_release" target="_blank">NIR<br><img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"></a></b></td>
       <td>MSc Dissertation: Integrating contexts from iterative reasoning directly into LLMs' hidden states for enhanced code generation. <a href="https://soran-ghaderi.github.io/nir/" target="_blank">Project Website</a></td>
     </tr>
     <tr>
-      <td>📚 <b><a href="https://github.com/tensorops/TransformerX" target="_blank">TransformerX<br><img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"></a></b></td>
+      <td>📚 <b><a href="https://github.com/tensorops/TransformerX" target="_blank">TransformerX<br><img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&&logo=tensorflow&logoColor=white"></a></b></td>
       <td>Library for building and experimenting with transformer-based models and LLMs.</td>
     </tr>
     <tr>
-      <td>📚 <b><a href="https://github.com/bi-graph/Emgraph" target="_blank">Emgraph<br><img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"></a></b></td>
+      <td>📚 <b><a href="https://github.com/bi-graph/Emgraph" target="_blank">Emgraph<br><img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"></a></b></td>
       <td>Library for knowledge graph embeddings: development, training, and evaluation.</td>
     </tr>
     <tr>
-      <td>📚 <b><a href="https://github.com/bi-graph/Bigraph" target="_blank">Bigraph</a></b></td>
+      <td>📚 <b><a href="https://github.com/bi-graph/Bigraph" target="_blank">Bigraph</br><img alt="Tensorflow" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"></a></b></td>
       <td>A library that extends some of the link prediction algorithms for bi-partite graphs.</td>
     </tr>
   </tbody>
