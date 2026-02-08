@@ -1,7 +1,8 @@
 <div align="center">
   <h1>Soran Ghaderi</h1>
   <p style="font-size: 1.1em; margin-bottom: 1px;">
-    Open Source ML Developer and Researcher | Foundational Models for Generalization, Reasoning, & Generative AI<br>
+    ML Research Engineer at CoSTAR National Lab | Video & World Models, Generative AI<br>
+    Open Source ML Developer and Researcher | Foundational Models for Generalization, Reasoning, & Planning<br>
     <a href="https://soran-ghaderi.github.io/" target="_blank" style="margin: 0 8px; text-decoration: none; color: #0366d6;">Personal Website</a> |
     <a href="https://twitter.com/soranghadri" target="_blank" style="margin: 0 8px; text-decoration: none; color: #1DA1F2;">Twitter</a> |
     <a href="https://www.linkedin.com/in/soran-ghaderi/" target="_blank" style="margin: 0 8px; text-decoration: none; color: #0077B5;">LinkedIn</a> |
@@ -23,14 +24,17 @@
 ## About Me
 
 <p>
+  ML Research Engineer at CoSTAR National Lab, working on video and world models for virtual production. Previously research intern at UIUC Blender Lab (energy-based models for image/video generation).
+</p>
+
+<p>
   I received my MSc in Artificial Intelligence at the University of Essex, supervised by Prof. <a href="https://scholar.google.com/citations?user=HnQm_pAAAAAJ&hl=en" target="_blank">L. Citi</a>. Previously, I obtained my bachelor's degree from the University of Kurdistan under the supervision of Dr <a href="https://scholar.google.co.uk/citations?user=bR5ttrwAAAAJ&hl=en" target="_blank">P. Moradi</a>.
 </p>
 <p>
   During my postgraduate studies, I worked on <b>reasoning in LLMs for code generation</b>, through which, I developed <I>"Neural Integration of Iterative Reasoning (<a href="https://soran-ghaderi.github.io/nir/">NIR</a>) for Code Generation"</I>. It consisted of a separate deep-think stage with self-reflection and a direct integration of thoughts (hidden states) into the LLM's main generation's hidden states using model surgery! <br>
   My ultimate objective is to study the cognitive mechanisms underlying intelligence and develop agents capable of reasoning and interacting with the real world.
 </p>
-<p>🍓 I am actively seeking <b>AI/ML Researcher/Engineer roles / Internships</b> where I can contribute to cutting-edge research in AI. I'm also looking for <b>PhD positions</b> (for the upcoming academic year).</p>
-
+<p>🍓 Open to <b>PhD opportunities</b> for the upcoming academic year and <b>research collaborations</b>.</p>
 <!-- <details>
   <summary><b>🟢 Click to see a brief overview of my contributions and activities over the years</b></summary>
   <br>
