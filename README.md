@@ -12,7 +12,7 @@
   </p>
   <p style="margin-bottom: 1px;">
   </p>
-  <h3>🍓 <b>Interested in Research Collaborations (check out my website and reach out by <a href="soran.gdr.cs@gmail.com" target="_blank" style="margin: 0 8px; text-decoration: none; color: #0077B5;">email</a>.</b></h3>
+  <h3>🍓 <b>Interested in Research Collaborations (check out my website and reach out by <a href="soran.gdr.cs@gmail.com" target="_blank" style="margin: 0 8px; text-decoration: none; color: #0077B5;">email</a>).</b></h3>
 </div>
 
 #### About
