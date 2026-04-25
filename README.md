@@ -32,7 +32,7 @@
   <tbody>
     <tr>
       <td>🍓 <b><a href="https://github.com/soran-ghaderi/torchebm" target="_blank">TorchEBM<br><img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"></a></b></td>
-      <td>PyTorch library for energy-based models, diffusion, flow-matching, and Schrödinger-bridges; simplifies training (CD, Score Matching), sampling, and research. <a href="https://soran-ghaderi.github.io/torchebm/" target="_blank">Official Website and Docs</a></td>
+      <td>PyTorch library for energy-based models, diffusion, flow-matching, and Schrödinger-bridges; <b><a href="https://soran-ghaderi.github.io/torchebm/" target="_blank">Official Website</a></b></b></td>
     </tr>
     <tr>
       <td>🐆 <b><a href="https://github.com/soran-ghaderi/worldkernels" target="_blank">WorldKernels<br><img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"></a></b></td>
@@ -40,7 +40,7 @@
     </tr>
       <tr>
       <td>🍒 <b><a href="https://github.com/soran-ghaderi/cuRBLAS" target="_blank">cuRBLAS<br><img alt="CUDA2" src="https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green"></a></b></td>
-      <td>CUDA-accelerated randomized BLAS (RBLAS) algorithms & routines. cuBLAS for modern randomized linear algebra.</td>
+      <td>CUDA-accelerated randomized BLAS (RBLAS) algorithms & routines.</td>
     </tr>
 
 </table>
