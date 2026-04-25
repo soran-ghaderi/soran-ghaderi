@@ -27,45 +27,19 @@
   ML Research Engineer at CoSTAR National Lab, working on video and world models for virtual production. Previously research intern at UIUC Blender Lab (energy-based models for image/video generation).
 </p>
 
-<p>
-  I received my MSc in Artificial Intelligence at the University of Essex, supervised by Prof. <a href="https://scholar.google.com/citations?user=HnQm_pAAAAAJ&hl=en" target="_blank">L. Citi</a>. Previously, I obtained my bachelor's degree from the University of Kurdistan under the supervision of Dr <a href="https://scholar.google.co.uk/citations?user=bR5ttrwAAAAJ&hl=en" target="_blank">P. Moradi</a>.
-</p>
-<p>
-  During my postgraduate studies, I worked on <b>reasoning in LLMs for code generation</b>, through which, I developed <I>"Neural Integration of Iterative Reasoning (<a href="https://soran-ghaderi.github.io/nir/">NIR</a>) for Code Generation"</I>. It consisted of a separate deep-think stage with self-reflection and a direct integration of thoughts (hidden states) into the LLM's main generation's hidden states using model surgery! <br>
-  My ultimate objective is to study the cognitive mechanisms underlying intelligence and develop agents capable of reasoning and interacting with the real world.
-</p>
-<p>🍓 Open to <b>PhD opportunities</b> for the upcoming academic year and <b>research collaborations</b>.</p>
 <!-- <details>
   <summary><b>🟢 Click to see a brief overview of my contributions and activities over the years</b></summary>
   <br>
   <img src="https://github.com/user-attachments/assets/19e46503-8caf-4a16-b54e-d38a76c6f5ce" alt="image" style="max-width: 200px; width: 20%; height: auto;">
 </details> -->
 
-<b>A brief overview of my contributions and activities over the years</b>
-<br>
-
-<img src="https://github.com/user-attachments/assets/19e46503-8caf-4a16-b54e-d38a76c6f5ce" alt="image" style="max-width: 200px; width: 20%; height: auto;">
 
 
 <h2>Research Interests</h2>
 
 <p>My research interests focus on building more capable, efficient, and generalizable AI systems. I am particularly interested in the intersection of deep learning, statistical mechanics, probabilistic modeling, and geometric methods. 
 
-<details>
-  <summary>Key areas of interest include (<b>🟢 click to expand</b>)</summary>
 
-  <ul>
-    <li><strong>Generative Modeling:</strong> Developing and understanding Energy-Based Models (EBMs, e.g., <code>TorchEBM</code>), Diffusion/Score-Based Models, Normalizing Flows &amp; Optimal Transport, and Consistency Models. This involves leveraging mathematical tools such as Ordinary Differential Equations (ODEs), Partial Differential Equations (PDEs, e.g., Fokker-Planck), and Stochastic Differential Equations (SDEs) to define, train, and sample from these models. My work also incorporates concepts from Stochastic Calculus (e.g., Itô Calculus) and Optimal Transport Theory.<br><br>
-    Parallel to these, I have experience in developing language models and autoregressive generation for sequential data.</li>
-    <li><strong>Generalization, Reasoning &amp; Planning:</strong> Creating models that exhibit robust OOD performance for complex decision-making.</li>
-    <li><strong>Geometric &amp; Mathematical Foundations of ML:</strong> Applying Differential Geometry (i.e. Riemannian manifolds), Metric Learning, and insights from different reformulations (i.e. Hamiltonian &amp; Lagrangian mechanics) to design more theoretically-solid and efficient learning algorithms.</li>
-    <li><strong>Efficient Architectures:</strong> Transformers &amp; Attention Mechanisms</li>
-    <li><strong>RL &amp; Agents</strong></li>
-    <li>Embodied Intelligent Agents</li>
-    <li><strong>Applications:</strong> AI for science, robotics, and LLMs</li>
-  </ul>
-
-</details>
 <b>Current Focus: </b> I am actively exploring the unification of diffusion, flow-based, and energy-based models, through the lens of statistical mechanics, differential geometry, and various other mathematical framworks. The goal is to design generalizable intelligent agents capable of sophisticated and fast generation and reasoning (viewed as an optimization or inference problem) and robust planning under uncertainty.
 
 <h2>Open Source Projects</h2>
@@ -81,51 +55,19 @@ My current flagship project is <strong>`∇ TorchEBM`</strong>, alongside ongoin
   </thead>
   <tbody>
     <tr>
+      <td>🍓 <b><a href="https://github.com/soran-ghaderi/torchebm" target="_blank">TorchEBM<br><img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"></a></b></td>
+      <td>PyTorch library for energy-based models, diffusion, flow-matching, and Schrödinger-bridges; simplifies training (CD, Score Matching), sampling, and research. <a href="https://soran-ghaderi.github.io/torchebm/" target="_blank">Official Website and Docs</a></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/soran-ghaderi/worldkernels" target="_blank">WorldKernels<br><img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"></a></b></td>
+      <td>High-throughput world model inference engine. With persistent KV-cache, CUDA graph capture, continuous batching, speculative decoding, and `torch.compile` fusion. Sub-millisecond scheduling via async token queues; REST/WebSocket streaming with backpressure</td>
+    </tr>
+      <tr>
       <td>🍒 <b><a href="https://github.com/soran-ghaderi/cuRBLAS" target="_blank">cuRBLAS<br><img alt="CUDA2" src="https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green"></a></b></td>
       <td>CUDA-accelerated randomized BLAS (RBLAS) algorithms & routines—cuBLAS for modern randomized linear algebra.</td>
     </tr>
-    <tr>
-      <td>🍓 <b><a href="https://github.com/soran-ghaderi/torchebm" target="_blank">TorchEBM<br><img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"></a></b></td>
-      <td>PyTorch library for Energy-Based (and Diffusion under dev) Models; simplifies training (CD, Score Matching), sampling, and research. <a href="https://soran-ghaderi.github.io/torchebm/" target="_blank">Official Website and Docs</a></td>
-    </tr>
-    <tr>
-      <td>📕 <b><a href="https://github.com/soran-ghaderi/nir_code_release" target="_blank">NIR<br><img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"></a></b></td>
-      <td>MSc Dissertation: Integrating contexts from iterative reasoning directly into LLMs' hidden states for enhanced code generation. <a href="https://soran-ghaderi.github.io/nir/" target="_blank">Project Website</a></td>
-    </tr>
-    <tr>
-      <td>📚 <b><a href="https://github.com/tensorops/TransformerX" target="_blank">TransformerX<br><img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&&logo=tensorflow&logoColor=white"></a></b></td>
-      <td>Library for building and experimenting with transformer-based models and LLMs.</td>
-    </tr>
-    <tr>
-      <td>📚 <b><a href="https://github.com/bi-graph/Emgraph" target="_blank">Emgraph<br><img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"></a></b></td>
-      <td>Library for knowledge graph embeddings: development, training, and evaluation.</td>
-    </tr>
-    <tr>
-      <td>📚 <b><a href="https://github.com/bi-graph/Bigraph" target="_blank">Bigraph</br><img alt="Tensorflow" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"></a></b></td>
-      <td>A library that extends some of the link prediction algorithms for bi-partite graphs.</td>
-    </tr>
-  </tbody>
+
 </table>
-
-<!-- <p>I have developed and maintained a number of Python libraries and standalone projects.</p> -->
-
-<b>Other</b>: <a href="https://github.com/appheap/TASE">📚 TASE</a>, <a href="https://github.com/soran-ghaderi/backpropagation">Nano automatic differentiation framework</a>, <a href="https://github.com/soran-ghaderi/EfficientCoF">EfficientCoF</a>, <a href="https://github.com/soran-ghaderi/make-a-video">Make-a-Video</a> (partially), <a href="https://github.com/soran-ghaderi/quantum-messaging">P2P quantum-messaging (conceptual)</a>
-<p></p>
-
-## Skills and Experiences (Broadly!)
-
-<details>
-  <summary>🟢 Click to Expand</summary>
-
-  <ul>
-    <li><strong>Generative AI &amp; ML:</strong><br> - EBMs, Diffusion Models, Normalizing Flows, and Probabilistic Modeling.<br> - Transformers and LLMs (Autoregressive Gen)<br> - Representation Learning.</li>
-    <li><strong>Languages &amp; Frameworks:</strong> PyTorch, TensorFlow, JAX (Familiar), Hugging Face Transformers.</li>
-    <li><strong>Math &amp; Algorithms:</strong> Optimization, MCMC (Langevin, HMC), Calculus, Linear Algebra, Probability, Statistics, elements of Stochastic Calculus, applied Differential Geometry, Optimal Transport.</li>
-    <li><strong>Software &amp; Tools:</strong> Git, API Design, TDD principles, Docker (Familiar), CI/CD (Familiar through GH Actions), HPC, and GPU Programming (Basic)</li>
-  </ul>
-
-</details>
-
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soran-ghaderi&theme=solarized_dark" alt="Profile Summary">
