@@ -1,26 +1,21 @@
 <div align="center">
   <h1>Soran Ghaderi</h1>
   <p style="font-size: 1.1em; margin-bottom: 1px;">
-    ML Research Engineer at CoSTAR National Lab | Video & World Models<br>
-    Open Source | Generative Models for Generalization and Ill-posed Inverse Problems<br>
+    DPhil (PhD) Student in Computer Science at the University of Oxford<br>
+    Generative Models | Generalization | Inverse Problems | Open Source<br>
     <a href="https://soran-ghaderi.github.io/" target="_blank" style="margin: 0 8px; text-decoration: none; color: #0366d6;">Personal Website</a> |
     <a href="https://twitter.com/soranghadri" target="_blank" style="margin: 0 8px; text-decoration: none; color: #1DA1F2;">Twitter</a> |
     <a href="https://www.linkedin.com/in/soran-ghaderi/" target="_blank" style="margin: 0 8px; text-decoration: none; color: #0077B5;">LinkedIn</a> |
     <a href="https://scholar.google.com/citations?user=-2N2iKcAAAAJ&hl=en" target="_blank" style="margin: 0 8px; text-decoration: none; color: #4285F4;">Google Scholar</a> |
     <a href="https://soran-ghaderi.github.io/blog/" target="_blank" style="margin: 0 8px; text-decoration: none; color: #B31B1B;">Personal Blog</a> |
-    <a href="https://soran-ghaderi.github.io/torchebm/latest/blog/" target="_blank" style="margin: 0 8px; text-decoration: none; color: #B31B1B;">∇ TorchEBM Blog</a> |
+    <a href="https://soran-ghaderi.github.io/torchebm/latest/blog/" target="_blank" style="margin: 0 8px; text-decoration: none; color: #B31B1B;">∇ TorchEBM Blog</a> 
   </p>
   <p style="margin-bottom: 1px;">
   </p>
   <h3>🍓 <b>Interested in Research Collaborations (check out my website and reach out by <a href="soran.gdr.cs@gmail.com" target="_blank" style="margin: 0 8px; text-decoration: none; color: #0077B5;">email</a>).</b></h3>
 </div>
 
-#### About
-<p>
-  AI MSc from Essex, ex UIUC intern (energy-based models for image/video generation).
-</p>
-
-<h4>Flagship Projects</h4>
+<h4>Selected Software</h4>
 
 <table>
   <thead>
